@@ -1,23 +1,23 @@
 criaCartao(
-    'História',
-    'O que foi a ditadura militar no Brasil?',
-    'A Ditadura Militar foi um regime político comandado por membros das Forças Armadas. Seu período mais recente no Brasil vigorou por 21 anos, entre 1964 e 1985'
+    'Bíblia',
+    ' Quantas pragas foram enviadas ao Egito?',
+    '10 Pragas. Referência bíblica: Êxodo capítulo 7 ao 10.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Bíblia',
+    'Qual é o último capítulo da Bíblia?',
+    'Apocalipse 22.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Bíblia',
+    'O que aconteceu quando Paulo e Silas louvavam na prisão?',
+    'Houve um terremoto na prisão e todas as portas se abriram! Referência bíblica: Atos 16:25-26.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Bíblia',
+    'Quando Moisés foi colocado num cesto e lançado no rio, quem o encontrou?',
+    'A filha do faraó. Referência bíblica: Êxodo 2:5-6.'
 )
